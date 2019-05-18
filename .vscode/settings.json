@@ -91,6 +91,7 @@
     "**/server.js": true,
     "**/npm-packages-offline-cache": true,
     "**/*.js.snap": true,
+    "*.code-workspace": true,
 
     "**/.editorconfig": true,
     "**/.git": true,
